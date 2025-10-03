@@ -2,8 +2,9 @@
 
 
 
-Alumna_Kiara_Correa
+Alumna: Kiara Correa
 
 
+Ejercicio 4
 
-Ejercicio_4_Python_intermedio 
+Python intermedio camada 2025 
